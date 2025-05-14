@@ -1,0 +1,7 @@
+E:\Round-61\Module_3\C_Sharp\Practise\Mid Exam\Mid Exam\Linq & Lambda\2\LinqAndLambda\LinqAndLambda\LinqAndLambda\bin\Debug\LinqAndLambda.exe.config
+E:\Round-61\Module_3\C_Sharp\Practise\Mid Exam\Mid Exam\Linq & Lambda\2\LinqAndLambda\LinqAndLambda\LinqAndLambda\bin\Debug\LinqAndLambda.exe
+E:\Round-61\Module_3\C_Sharp\Practise\Mid Exam\Mid Exam\Linq & Lambda\2\LinqAndLambda\LinqAndLambda\LinqAndLambda\bin\Debug\LinqAndLambda.pdb
+E:\Round-61\Module_3\C_Sharp\Practise\Mid Exam\Mid Exam\Linq & Lambda\2\LinqAndLambda\LinqAndLambda\LinqAndLambda\obj\Debug\LinqAndLambda.csproj.AssemblyReference.cache
+E:\Round-61\Module_3\C_Sharp\Practise\Mid Exam\Mid Exam\Linq & Lambda\2\LinqAndLambda\LinqAndLambda\LinqAndLambda\obj\Debug\LinqAndLambda.csproj.CoreCompileInputs.cache
+E:\Round-61\Module_3\C_Sharp\Practise\Mid Exam\Mid Exam\Linq & Lambda\2\LinqAndLambda\LinqAndLambda\LinqAndLambda\obj\Debug\LinqAndLambda.exe
+E:\Round-61\Module_3\C_Sharp\Practise\Mid Exam\Mid Exam\Linq & Lambda\2\LinqAndLambda\LinqAndLambda\LinqAndLambda\obj\Debug\LinqAndLambda.pdb
